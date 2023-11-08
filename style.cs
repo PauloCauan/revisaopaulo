@@ -43,3 +43,8 @@ footer {
     list-style-type: decimal;
     margin-left: 20px;
 }
+
+.img{
+    height:200px
+    width: 400px
+}
