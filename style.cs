@@ -38,3 +38,8 @@ footer {
     list-style-type: decimal;
     margin-left: 20px;
 }
+
+.jogadores {
+    list-style-type: decimal;
+    margin-left: 20px;
+}
